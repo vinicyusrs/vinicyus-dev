@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm Vinicyus!...&font=Fira%20Code&size=40&center=true&width=450&height=100&duration=4000&pause=1000" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm Vinicyus!...&font=Fira%20Code&size=35&center=true&width=450&height=100&duration=4000&pause=1000" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=22779C&center=true&vCenter=true&width=800&lines=Bem+vindo(a).+Me+chamo+Jo%C3%A3o%2C+vulgo+Jonh.+" alt="Typing SVG" /></a>
 </p>
 
