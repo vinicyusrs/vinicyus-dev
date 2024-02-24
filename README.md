@@ -10,7 +10,7 @@
 </p>
 
  <p>&nbsp&nbsp&nbsp&nbsp - 🔭 Atualmente trabalhando com Java(Spring boot)<br>
-   &nbsp&nbsp&nbsp&nbsp - 📚 e Estudando Java ! <br>
+   &nbsp&nbsp&nbsp&nbsp - 📚 e Estudando Java  e English! <br>
    </p>
 <br>
 
