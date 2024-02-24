@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm Vinicyus+!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=100&duration=4000&pause=1000 style="font-size: 200px;" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm Vinicyus+!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=1000&height=100&duration=4000&pause=1000 style="font-size: 200px;" >
 </p>
 
 <p align="center">
