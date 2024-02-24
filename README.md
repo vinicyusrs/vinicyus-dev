@@ -9,7 +9,7 @@ readme vinicyusrs
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm Vinicyus!...&font=Fira%20Code&size=35&center=true&width=800&height=100&duration=4000&pause=1000" >
 </p>
 
- <p>&nbsp&nbsp&nbsp&nbsp - 🔭 Atualmente trabalhando com Java(Spring boot), Vue.js<br>
+ <p>&nbsp&nbsp&nbsp&nbsp - 🔭 Atualmente trabalhando com Java(Spring boot), Vue.js(Front-end)<br>
    &nbsp&nbsp&nbsp&nbsp - 📚 e Estudando Java  e English! <br>
    </p>
 <br>
