@@ -17,7 +17,10 @@
 </div>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/jonh-dev">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=jonh-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=vinicyusrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
   <img  width="33.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonh-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
