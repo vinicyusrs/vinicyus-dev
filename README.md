@@ -16,7 +16,7 @@
 
 </div>
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/jonh-dev">
+  <a href="https://github.com/vinicyusrs">
   <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=vinicyusrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
