@@ -9,7 +9,7 @@ readme vinicyusrs
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm Vinicyus!...&font=Fira%20Code&size=35&center=true&width=800&height=100&duration=4000&pause=1000" >
 </p>
 
- <p>&nbsp&nbsp&nbsp&nbsp - 🔭 Atualmente trabalhando com Java(Spring boot)<br>
+ <p>&nbsp&nbsp&nbsp&nbsp - 🔭 Atualmente trabalhando com Java(Spring boot), Vue.js<br>
    &nbsp&nbsp&nbsp&nbsp - 📚 e Estudando Java  e English! <br>
    </p>
 <br>
@@ -26,6 +26,7 @@ readme vinicyusrs
   <img alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
 
 </div>
   
